@@ -1,0 +1,33 @@
+[data-page="jaz_art_list"][data-itemid="simple_grid_field1"] {
+  font-weight: bold;
+  font-size: 20px;
+}
+[data-page="jaz_art_list"][data-itemid="page_image_ash8f23hr"] {
+  width: 400px;
+}
+
+/* Put  your custom CSS code here */
+
+[data-cellid="grid_cell_field9"][data-page="jaz_art_list"][data-cellid="grid_cell_field9"][data-page="jaz_art_list"][data-cellid="grid_cell_field9"][data-page="jaz_art_list"]:hover {
+  background-color: #87CEEB;
+  transform: scale(1.1) ;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+/* Put  your custom CSS code here */
+
+[data-page="jaz_art_list"][data-itemid="simple_grid_field1"]:hover {
+  background-color: #87CEEB;
+}
+
+/* Put  your custom CSS code here */
+
+[data-page="jaz_art_list"][data-itemid="simple_grid_field9"]:hover {
+  background-color: #87CEEB;
+}
+
+/* Put  your custom CSS code here */
+
+[data-page="jaz_art_list"][data-itemid="simple_grid_field2"]:hover {
+  background-color: #87CEEB;
+}
+
